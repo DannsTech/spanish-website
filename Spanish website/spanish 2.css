@@ -1,0 +1,419 @@
+/*modal box*/
+
+.modal-box{
+    width: 100%;
+    height:109%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: block;
+    transform: scale(1,1);
+    
+    
+    }
+
+
+.modal-words {
+
+background-color: aliceblue;
+width: 400px;
+height: 198px;
+margin-left: 450px;
+margin-top: 20px;
+
+
+
+}
+
+
+.modal-close{
+
+margin-top:-25px;
+margin-left: 370px;
+transform: rotate(46deg);
+cursor: pointer;
+font-size: 40px;
+}
+
+
+
+
+
+.top-bar{
+
+background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(161, 207, 35, 0) 70.71%),
+linear-gradient(127deg, rgba(0,255,0,.8), rgba(219, 41, 151, 0) 70.71%),
+linear-gradient(336deg, rgba(0,0,255,.8), rgba(24, 204, 189, 0) 70.71%);
+padding-top: 20px;
+margin-top: -10px;
+margin-left: -10px;
+margin-right: -10px;
+padding-bottom: 30px;
+
+
+}
+
+#button{
+
+margin-left: 520px;
+width: 300px;
+height: 60px;
+border-radius: 29px;
+cursor: pointer;
+font-size: large;
+
+
+}
+
+
+#button:hover{
+
+background: beige;
+color: blue;
+border-color: blueviolet;
+}
+
+
+
+body{
+
+
+background-color: azure;
+widows: 300px;
+max-height: max-content;
+max-width: max-content;
+}
+
+/*basics section*/
+
+.boxes p{
+
+margin-left: 20px;
+margin-top: 50px;
+font-size: larger;
+}
+
+.boxes{
+
+display: flex;
+grid-gap: 20px;
+background-color: rgb(189, 236, 238);
+border-style: solid;
+margin-left: -10px;
+margin-right: -10px;
+}
+
+.box{
+
+justify-content: space-between;
+margin-left: 78px;
+width: 180px;
+height: 60px;
+
+
+}
+.box-1{
+
+border-style: solid;
+border-color: white;
+background-color: white;
+padding: 10px;
+
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+
+}
+
+
+.box-2{
+    border-style: solid;
+    border-color: white;
+background-color: white;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+
+}
+
+.box-3{
+    border-style: solid;
+    border-color: white;
+background-color: white;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+}
+
+.box-4{
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+background-color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+
+
+.box:hover{
+
+background-color: rgb(216, 243, 154);
+color: blue;
+}
+
+
+
+
+.box p{
+
+text-align: center;
+margin: 20px;
+
+}
+
+
+/*level 1 section*/
+
+.bobo{
+margin-top: 40px;
+text-align: center;
+font-size: large;
+}
+
+.level-1{
+
+background-color: rgb(238, 206, 247);
+display: flex;
+grid-gap:30px;
+margin-left: -10px;
+margin-right: -10px;
+
+border-color: rgb(135, 219, 124);
+padding: 40px;
+padding-bottom: -30px;
+}
+
+.level{
+
+justify-content: space-between;
+
+margin-left: 80px;
+text-align: center;
+
+cursor: pointer;
+font-size: larger;
+border-style: solid;
+border-color: aliceblue;
+font-size: 22px;
+}
+
+.level:hover {
+
+background-color: rgb(109, 214, 165);
+color: blue;
+}
+
+.level-one{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+
+}
+
+.level-two{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+}
+.level-three{
+background-color: aliceblue;
+padding-right:10px;
+padding-left: 10px;
+
+
+
+
+}
+.level-four{
+
+background-color: aliceblue;
+padding-right:10px;
+padding-left: 10px;
+
+
+
+}
+
+.level-five{
+
+ background-color: aliceblue;
+ padding-right:10px;
+ padding-left: 10px;
+
+
+}
+
+.level-six{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+
+}
+
+.level-one p{
+
+padding-top: 2px;
+
+
+
+}
+
+.level-two p{
+
+
+padding-top: 10px;
+
+
+}
+
+.level-three p{
+
+padding-top: 9px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.level-four p{
+
+padding-top: 20px;
+
+
+}
+
+
+.level-five p{
+
+padding-top: 11px;
+
+
+}
+
+
+
+.level-six p{
+
+
+padding-top: 7px;
+
+
+
+
+
+}
+
+/*level 2*/
+
+.level-2 {
+
+display: flex;
+background-color: rgb(255, 229, 196);
+margin-left:-10px ;
+margin-right:-10px ;
+grid-gap: 20px;
+padding: 50px;
+border-style: dotted;
+margin-bottom: -10px;
+}
+
+.two{
+background-color: aliceblue;
+margin-left: 30px;
+border-style: solid;
+border-color: aliceblue;
+padding: 30px;
+font-size:larger;
+
+cursor: pointer;
+width: 200px;
+max-height: 20px;
+
+}
+
+.two:hover{
+
+background-color: rgb(149, 155, 243);
+color: blue;
+
+
+}
+
+.bibi{
+font-size: larger;
+text-align:right ;
+margin-top: 30px;
+
+
+}
+
+.two-1 p{
+
+text-align: center;
+margin-top: 1px;
+
+}
+
+.two-2 p{
+
+text-align: center;
+margin-top: 1px;
+
+}
+
+.two-3 p{
+text-align: center;
+margin-top: 1px;
+
+}
+.two-4 p{
+
+text-align: center;
+margin-top: 1px;
+
+}
+
+.two-5 p{
+
+text-align: center;
+margin-top: 1px;
+
+
+}
+
