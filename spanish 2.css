@@ -1,0 +1,1164 @@
+/* first modal box */
+.modal-box{
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+    
+    }
+
+     .modal-content  {
+
+      background-color: aliceblue;
+      top: 0;
+      bottom: 0;
+      width: 460px;
+      height: 136px;
+      border-radius: 10px;
+      margin-left: 450px;
+      box-shadow:darkblue;
+      border-style: outset;
+       margin-top:20px;
+       cursor:default;
+     }
+
+.modal-content p {
+    text-align: center;
+     margin-top: 30px;
+}
+
+
+
+/*modal box hola*/
+.modal-hello{
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-hello {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 136px;
+    border-radius: 10px;
+    margin-left: 169px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 74px;
+
+
+}
+
+.content-hello p{
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+}
+
+/*como estas modal*/
+
+.modal-como {
+ 
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+
+}
+
+.content-como {
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 136px;
+    border-radius: 10px;
+    margin-left: 469px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 74px;
+
+
+
+
+
+
+}
+
+.content-como p{
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+}
+
+/*modal gracias*/
+
+.modal-gracias {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+}
+
+.content-gracias{
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 136px;
+    border-radius: 10px;
+    margin-left: 780px;
+    box-shadow:darkblue;
+    border-style: outset;
+     
+     cursor:default;
+    margin-top: 74px;
+
+
+
+
+}
+
+.content-gracias p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+}
+
+/*modal adios*/
+
+.modal-adios{
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-adios{
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 136px;
+    border-radius: 10px;
+    margin-left: 1078px;
+    box-shadow:darkblue;
+    border-style: outset;
+  
+     cursor:default;
+    margin-top: 74px;
+
+
+}
+
+.content-adios p{
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+}
+
+/* modal mi nombre*/
+
+.modal-nombre{
+
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-nombre {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 169px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+
+
+
+}
+
+.content-nombre p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+
+}
+
+
+/*modal buenos dias*/
+
+.modal-buenos {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-buenos {
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 360px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+}
+
+.content-buenos p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+}
+
+
+/*modal donde*/
+
+.modal-donde {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+}
+
+.content-donde {
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 578px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+
+
+
+
+}
+
+.content-donde p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+
+
+}
+
+/* modal disculpe  */
+
+
+.modal-disculpe {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-disculpe {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 810px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+
+}
+
+.content-disculpe p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+/*noches*/
+
+
+}
+
+.modal-noches {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+}
+
+.content-noches {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 999px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+
+
+
+
+}
+
+.content-noches p {
+
+    text-align: center;
+    margin-top: 58px;
+font-size: larger;
+
+
+
+}
+
+
+/*luego*/
+
+
+.modal-luego {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+
+}
+
+.content-luego {
+
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 120px;
+    height: 135px;
+    border-radius: 10px;
+    margin-left: 1200px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 275px;
+
+
+
+
+}
+
+
+
+.content-luego p {
+
+text-align: center;
+margin-top: 58px;
+font-size: larger;
+
+
+
+}
+
+/*yo*/
+
+.modal-yo{
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+
+}
+
+.content-yo{
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 120px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 500px;
+
+
+
+
+
+}
+
+.content-yo p{
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+
+}
+
+/*el ella*/
+
+.modal-ellos{
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+}
+
+.content-ellos{
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 370px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 500px;
+
+
+
+}
+
+
+.content-ellos p{
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+
+
+
+}
+/*them*/
+
+
+.modal-them {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+}
+
+
+.content-them {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 590px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 500px;
+
+
+}
+
+
+.content-them p {
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+
+}
+
+/*us*/
+
+
+.modal-us {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+}
+
+.content-us {
+
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 810px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 500px;
+
+
+
+
+
+}
+
+.content-us p {
+
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+
+}
+
+
+/*ustedes*/ 
+
+.modal-ustedes {
+
+    width: 100%;
+    height:120%;
+    background-color:rgba(114, 95, 95, 0.712);
+    position:absolute;
+    top:0;
+    left:0;
+    visibility: hidden;
+    transform: scale(1,1);
+    cursor: pointer;
+
+
+
+
+}
+
+.content-ustedes {
+
+    background-color: aliceblue;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 1039px;
+    box-shadow:darkblue;
+    border-style: outset;
+    
+     cursor:default;
+    margin-top: 500px;
+
+
+
+
+}
+
+
+.content-ustedes p {
+
+
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: larger;
+
+
+
+}
+
+
+
+
+.top-bar{
+
+background-image: linear-gradient(217deg, rgba(95, 180, 236, 0.8), rgba(140, 165, 70, 0) 70.71%),
+linear-gradient(127deg, rgba(156, 82, 185, 0.8), rgba(161, 63, 124, 0) 70.71%),
+linear-gradient(336deg, rgba(77, 77, 240, 0.8), rgba(204, 177, 24, 0) 70.71%);
+padding-top: 20px;
+margin-top: -10px;
+margin-left: -10px;
+margin-right: -10px;
+padding-bottom: 30px;
+
+
+}
+
+#button{
+
+margin-left: 520px;
+width: 300px;
+height: 60px;
+border-radius: 48px;
+cursor: pointer;
+font-size: large;
+border-color: aquamarine;
+
+}
+
+
+#button:hover{
+
+background: beige;
+color: blue;
+border-color: blueviolet;
+}
+
+
+
+body{
+
+
+
+background-image:  linear-gradient(217deg, rgba(255, 0, 200, 0.8), rgba(35, 207, 184, 0) 70.71%),
+linear-gradient(127deg, rgba(24, 163, 228, 0.8), rgba(165, 24, 111, 0) 70.71%),
+linear-gradient(336deg, rgba(124, 4, 148, 0.8), rgba(24, 204, 189, 0) 70.71%);
+;
+
+widows: 300px;
+max-height: 780px ;
+max-width: 1500px;
+
+}
+
+/*basics section*/
+
+.boxes p{
+
+margin-left: 20px;
+margin-top: 50px;
+font-size: larger;
+}
+
+.boxes{
+
+display: flex;
+grid-gap: 20px;
+background-color: rgb(189, 236, 238);
+border-style: solid;
+margin-left: -10px;
+margin-right: -10px;
+}
+
+.box{
+
+justify-content: space-between;
+margin-left: 78px;
+width: 180px;
+height: 60px;
+
+
+}
+.box-1{
+
+border-style: solid;
+border-color: white;
+background-color: white;
+padding: 10px;
+
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+
+}
+
+
+.box-2{
+    border-style: solid;
+    border-color: white;
+background-color: white;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+
+}
+
+.box-3{
+    border-style: solid;
+    border-color: white;
+background-color: white;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+
+}
+
+.box-4{
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+background-color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+
+
+.box:hover{
+
+background-color: rgb(216, 243, 154);
+color: blue;
+}
+
+
+
+
+.box p{
+
+text-align: center;
+margin: 20px;
+
+}
+
+
+/*level 1 section*/
+
+.bobo{
+margin-top: 40px;
+text-align: center;
+font-size: large;
+}
+
+.level-1{
+
+background-color: rgb(238, 206, 247);
+display: flex;
+grid-gap:30px;
+margin-left: -10px;
+margin-right: -10px;
+
+border-color: rgb(135, 219, 124);
+padding: 40px;
+padding-bottom: -30px;
+}
+
+.level{
+
+justify-content: space-between;
+
+margin-left: 80px;
+text-align: center;
+
+cursor: pointer;
+font-size: larger;
+border-style: solid;
+border-color: aliceblue;
+font-size: 22px;
+}
+
+.level:hover {
+
+background-color: rgb(109, 214, 165);
+color: blue;
+}
+
+.level-one{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+
+}
+
+.level-two{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+}
+.level-three{
+background-color: aliceblue;
+padding-right:10px;
+padding-left: 10px;
+
+
+
+
+}
+.level-four{
+
+background-color: aliceblue;
+padding-right:10px;
+padding-left: 10px;
+
+
+
+}
+
+.level-five{
+
+ background-color: aliceblue;
+ padding-right:10px;
+ padding-left: 10px;
+
+
+}
+
+.level-six{
+
+background-color: aliceblue;
+padding-right: 10px;
+padding-left: 10px;
+
+
+
+
+}
+
+.level-one p{
+
+padding-top: 2px;
+
+
+
+}
+
+.level-two p{
+
+
+padding-top: 10px;
+
+
+}
+
+.level-three p{
+
+padding-top: 9px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.level-four p{
+
+padding-top: 20px;
+
+
+}
+
+
+.level-five p{
+
+padding-top: 11px;
+
+
+}
+
+
+
+.level-six p{
+
+
+padding-top: 7px;
+
+
+
+
+
+}
+
+/*level 2*/
+
+.level-2 {
+
+display: flex;
+background-color: rgb(255, 229, 196);
+margin-left:-10px ;
+margin-right:-10px ;
+grid-gap: 10px;
+
+border-style: dotted;
+padding: 40px;
+
+
+}
+
+.two{
+
+   
+background-color: aliceblue;
+margin-right: 10px;
+border-style: solid;
+border-color: aliceblue;
+
+font-size:larger;
+
+cursor: pointer;
+width: 200px;
+max-height: 120px;
+
+}
+
+.two:hover{
+
+background-color: rgb(149, 155, 243);
+color: blue;
+
+
+}
+
+.bibi{
+font-size: larger;
+text-align:right ;
+margin-top: 30px;
+
+
+}
+
+.two-1 p{
+
+text-align: center;
+margin-top: 20px;
+
+}
+
+.two-2 p{
+
+text-align: center;
+margin-top: 20px;
+
+}
+
+.two-3 p{
+text-align: center;
+margin-top: 20px;
+
+}
+.two-4 p{
+
+text-align: center;
+margin-top: 20px;
+
+}
+
+.two-5 p{
+
+text-align: center;
+margin-top: 20px;
+
+
+}
+
